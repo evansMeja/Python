@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Python Is Awesome
 
-You can use the [editor on GitHub](https://github.com/evansMeja/python-progrmming/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Python is a cross-platform programming language, meaning, it runs on multiple platforms like Windows, Mac OS X, Linux, Unix and has even been ported to the Java and .NET virtual machines. It is free and open source
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Now there are various ways to start Python.
 
-### Markdown
+1. Immediate mode
+2. Script Mode
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 1. Immediate mode
+Typing python in the command line will invoke the interpreter in immediate mode. We can directly type in Python expressions and press enter to get the output.
 
-```markdown
-Syntax highlighted code block
+```>>>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# 2. Script mode
+This mode is used to execute Python program written in a file. Such a file is called a script. Scripts can be saved to disk for future use. Python scripts have the extension .py, meaning that the filename ends with .py.
+For example: helloWorld.py
 
-### Jekyll Themes
+To execute this file in script mode we simply write ***python helloWorld.py*** at the command prompt.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/evansMeja/python-progrmming/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more details see [Programming Empire](https://www.programmingempire.tk/).
